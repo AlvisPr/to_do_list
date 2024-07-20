@@ -1,0 +1,35 @@
+.input {
+    padding: 0.75rem;
+    font-size: 1rem;
+    border: 2px solid #ced4da;
+    border-radius: 8px;
+    outline: none;
+    transition: border-color 0.3s ease;
+    width: 94%;
+  }
+
+  .input:focus {
+    border: 5px solid yellow; 
+
+  }
+
+  .inputWrapper {
+    position: relative;
+  }
+ 
+  
+  .placeholder {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
+    color: #999;
+    pointer-events: none;
+    padding: 10px;
+  }
+  
+  .placeholder span {
+    margin-left: 5px;
+  }

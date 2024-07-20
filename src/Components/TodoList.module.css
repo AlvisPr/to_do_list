@@ -1,0 +1,30 @@
+.todoItem {
+  background-color: green;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  cursor: pointer;
+  transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+  color: white;
+  font-size: 22px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.todoItem:hover {
+  background-color: red;
+  transform: translateY(-1px) scale(1.07);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+  .heading{
+    color: white;
+  }
+
+
+  
+  
+  

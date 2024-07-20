@@ -1,0 +1,22 @@
+.todoContainer {
+  width: 60%;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: purple;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  font-size: 2.5rem;
+  color: white;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.todoList {
+  margin-bottom: 2rem;
+}
+
+
+
