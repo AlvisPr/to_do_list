@@ -11,6 +11,7 @@ This project is a simple and interactive web application that helps users manage
 - Run **npm install** to install the necessary dependencies.
 - Run **npm start** to start the application.
 - Open your web browser and go to http://localhost:3000 to see the app in action.
+- You can also visit the deployed application at https://todolistmit.netlify.app/.
 
 ## Features 
 
